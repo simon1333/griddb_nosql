@@ -1,0 +1,14 @@
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sens-serif;
+  text-align: center;
+  line-height: 1.42857143;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  white-space: nowrap;
+  vertical-align: middle;
+   color: #fff;
+}
